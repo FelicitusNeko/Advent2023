@@ -1,4 +1,7 @@
 -cp src
 -D analyzer-optimize
+-L thx.promise
 -main Main
+
 --interp
+#--cpp bin/cpp
