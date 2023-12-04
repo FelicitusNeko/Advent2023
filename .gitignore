@@ -1,2 +1,4 @@
 .vscode/
 .haxelib/
+secrets/
+cache/
