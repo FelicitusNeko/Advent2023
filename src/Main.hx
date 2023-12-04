@@ -1,5 +1,9 @@
+import advent.y2023.*;
+
 class Main {
 	static function main() {
-		trace("Hello, world!");
+		var test = new Day3();
+		trace((test.Part1()));
+		trace((test.Part2()));
 	}
 }
